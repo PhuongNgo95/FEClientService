@@ -110,7 +110,7 @@ public class SwingFirstExample1 {
 		JLabel lblNewLabel1 = new JLabel();
 		lblNewLabel1.setBounds(116, 185, 212, 35);
 		panel.add(lblNewLabel1);
-
+//hihi
 		// Creating login button
 		JButton loginButton = new JButton("login");
 		loginButton.addActionListener(new ActionListener() {
